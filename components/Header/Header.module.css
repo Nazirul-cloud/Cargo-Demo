@@ -1,0 +1,16 @@
+
+  .site-navbar .text-white {
+    color: #fff;
+    font-weight: 600;
+    font-size: 24px;
+  }
+  
+  .site-navbar .text-black {
+    color: #000;
+  }
+
+  .navbar .nav-link.dropdown-toggle:focus {
+    color: #fff;
+  }
+
+  
